@@ -1,0 +1,15 @@
+- Go is a compiled language 
+- Hence go is faster 
+- Programming languages like C# and Java compile on virtual machine 
+- Where as Go compiles to native machine code 
+- Its speed is similar to Java and C# but uses less memory since it does not require VM to compile 
+
+Compilation 
+- they have the main.go file 
+- we run go build the executable is built 
+- this executable can run on any machine 
+- its simpler to deploy because all the upfront task is done by the compiler
+
+Go key points: 
+- Go is a strong and static typing 
+- This means variables can only have a single type 
